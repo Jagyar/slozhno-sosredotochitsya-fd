@@ -1,4 +1,14 @@
-/*
-  Переменные для вашего проекта
-  и их переопределение под различные устройства
-*/
+:root {
+    --background-image-light: url(../images/cover-image-light.png);
+    --background-color: #ffeff7;
+    --accent-color: #FF8DCB;
+    --contrast-base-color: #353430;
+    --contrast-text-base-color: #353430;
+    --contrast-title-base-color: #353430;
+    --contrast-hover-color: rgba(50, 49, 45, 0.4);
+    --header-title-color: #FFC2E6;
+    --margin-on-the-sides-section: 10px;
+    --margin-end-of-section: 50px;
+    --margin-end-of-images-section: 40px;
+    --rec-visibility: hidden;
+}
