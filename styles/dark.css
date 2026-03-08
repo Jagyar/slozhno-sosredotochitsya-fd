@@ -1,5 +1,5 @@
 :root.theme-dark {
-  --background-image-light: url(../images/cover-image-dark.png);
+  --background-image: url(../images/cover-image-dark.png);
   --background-color: #00083c;
   --accent-color: #FF0070;
   --contrast-base-color: #FF0070;
@@ -12,7 +12,7 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background-image-light: url(../images/cover-image-dark.png);
+    --background-image: url(../images/cover-image-dark.png);
     --background-color: #00083c;
     --accent-color: #FF0070;
     --contrast-base-color: #FF0070;
