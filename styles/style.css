@@ -3,8 +3,7 @@
     background-image: var(--background-image);
     background-position: center;
     background-attachment: fixed;
-    block-size: 100%;
-    inline-size: 100%;
+    background-size: cover;
 }
 
 .header {
